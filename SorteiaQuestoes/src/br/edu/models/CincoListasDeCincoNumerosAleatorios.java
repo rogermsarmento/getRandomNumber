@@ -4,9 +4,10 @@
 * Class Name: CincoListasDeCincoNumerosAleatorios.java
 * Data: 5 de set. de 2023
 * Author: dgti dados
-* Goals:
-* Version: 
-* Last Modification: 
+* Goals: modificar o programa para gerar 5 listas, cada uma contendo 5 números aleatórios entre 1 e 25 sem repetição. 
+* Este programa gera 5 listas, cada uma contendo 5 números aleatórios sem repetição entre 1 e 25. Ele usa um conjunto numerosUsados para garantir que não haja repetições dentro de cada lista e exibe as listas geradas separadas por uma linha em branco.
+* Version: 1.1
+* Last Modification: 5 de set. de 2023
 */
 
 package br.edu.models;

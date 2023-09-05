@@ -4,8 +4,8 @@
 * Class Name: GerarNumerosAleatorios.java
 * Data: 5 de set. de 2023
 * Author: dgti dados
-* Goals:
-* Version: 
+* Goals: Este programa gera 5 números aleatórios entre 1 e 25 sem repetição e repete o processo 5 vezes, exibindo os números gerados em cada repetição.
+* Version: v1.2
 * Last Modification: 
 */
 
